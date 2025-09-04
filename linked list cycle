@@ -27,3 +27,4 @@ node2.next = node3   # cycle here
 sol = Solution()
 sol.hasCycle(node1)
 
+
